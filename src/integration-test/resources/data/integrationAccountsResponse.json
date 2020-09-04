@@ -1,0 +1,19 @@
+{
+    "accountId": null,
+    "status": "200",
+    "errorMessage": null,
+    "accounts": [
+        {
+            "accountId": "0123456789",
+            "accountType": "debit",
+            "accountOpenDate": "01/01/2020",
+            "accountCloseDate": "31/12/2020"
+        },
+        {
+            "accountId": "1234567890",
+            "accountType": "credit",
+            "accountOpenDate": "01/01/2020",
+            "accountCloseDate": "31/12/2020"
+        }
+    ]
+}
